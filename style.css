@@ -49,3 +49,9 @@ h1{
     z-index: 751;
     position: sticky;
 }
+#dolly{
+    background-color: antiquewhite;
+}
+#carro{
+    background: #df03fc;
+}
